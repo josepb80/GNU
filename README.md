@@ -1,4 +1,5 @@
-<h1>Fujiko Fujio</h1>
+<h1>Películas</h1>
 
-<h3>Hiroshi Fujimoto</h3>
+En marzo de 1980, Toho distribuyó la primera de una serie de largometrajes animados anuales producidos por Shin-Ei Animation y que en su mayoría son adaptaciones de la serie de manga Daichōhen Doraemon.​ Las primeras veinticinco películas fueron con base a la serie de 1979, mientras que el resto están relacionadas con la serie de 2005. Las películas correspondientes a la serie de 1979, fueron dirigidas en su mayoría por Tsutomu Shibayama y escritas por Fujiko F. Fujio hasta 1996; después de la muerte del autor, Nobuaki Kishima fue el guionista de las películas restantes.​ A diferencia del anime de TV, las películas están más orientadas a la acción y la aventura; los personajes, además de tener personalidades cambiadas, exploran toda una variedad de escenarios y sus temáticas a menudo se inspiran en folclore japonés, obras literarias, historia, medio ambiente y tecnología.​ Actualmente la franquicia ha presentado 40 películas inspiradas en el anime y 2 películas CGI.
 
+![image](https://github.com/user-attachments/assets/52c83c98-a7a7-439e-8ff1-5fdbf878f670)
