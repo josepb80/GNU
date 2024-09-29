@@ -1,1 +1,1 @@
-# GNU
+Fujiko Fujio
